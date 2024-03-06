@@ -4,11 +4,11 @@
 
 ![](/capitulo-3/img/1.Listas.png)
 
-## Operaciones
+## Operaciones con Listas
 
 ![](/capitulo-3/img/2.Operaciones.png)
 
-## Listas
+## Listas al proyecto
 
 ![](/capitulo-3/img/3.Listas.png)
 
